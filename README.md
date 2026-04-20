@@ -1,6 +1,6 @@
 # ✦ Luna - Your Personal AI on a USB Drive
 
-Luna is a portable, offline AI assistant that runs entirely from a USB flash drive. Plug it into any Windows, Mac, or Linux computer, run one file, and your private AI is live in a browser tab. No accounts. No cloud. No data leaving the drive. When you unplug the USB, it's like Luna was never there.
+Luna is a portable, offline AI assistant that runs entirely from a USB flash drive. You can plug it into any Windows, Mac or Linux computer, run one file and your private AI is live in a browser tab. You dont need any accounts, cloud or data leaving the drive. When you unplug the USB, it's like Luna was never there.
 
 The name is Luna. She'll remember that.
 
